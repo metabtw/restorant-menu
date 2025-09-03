@@ -2,6 +2,12 @@
 
 Modern ve kullanıcı dostu bir restoran menü yönetim sistemi. Next.js 15, React 19, TypeScript ve Tailwind CSS ile geliştirilmiştir.
 
+<img width="1367" height="1663" alt="screencapture-localhost-3000-2025-09-03-15_43_31" src="https://github.com/user-attachments/assets/31e03ce2-d847-457d-ae76-ce2f7fb3ab03" />
+<img width="1367" height="2704" alt="screencapture-localhost-3000-menu-2025-09-03-15_44_17" src="https://github.com/user-attachments/assets/f248fe67-444b-4f8c-a538-2e5d5bbf" />
+<img width="1367" height="1835" alt="screencapture-localhost-3000-contact-2025-09-03-15_44_48" src="https://github.com/user-attachments/assets/710035fe-bf32-4ad0-8326-c62329a7e90e" />
+35a7" />
+<img width="1367" height="896" alt="screencapture-localhost-3000-admin-2025-09-03-15_46_58" src="https://github.com/user-attachments/assets/dde69aad-be46-4083-b492-013cc0851c94" />
+
 ## 📋 İçindekiler
 
 - [Özellikler](#özellikler)
