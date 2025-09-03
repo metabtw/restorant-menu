@@ -1,0 +1,125 @@
+{
+  "categories": [
+    {
+      "id": "kahvalti",
+      "name": "Kahvaltı",
+      "description": "Günün en güzel başlangıcı"
+    },
+    {
+      "id": "ogle",
+      "name": "Öğle Yemekleri",
+      "description": "Doyurucu ana yemekler"
+    },
+    {
+      "id": "tatli",
+      "name": "Tatlılar",
+      "description": "Tatlı son için"
+    },
+    {
+      "id": "icecek",
+      "name": "İçecekler",
+      "description": "Serinletici içecekler"
+    }
+  ],
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Serpme Kahvaltı",
+      "description": "Peynir çeşitleri, zeytin, reçel, bal, tereyağı, simit, börek",
+      "price": 85,
+      "category": "kahvalti",
+      "image": "/images/serpme-kahvalti.jpg",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Menemen",
+      "description": "Taze domates, biber ve soğanla hazırlanan geleneksel menemen",
+      "price": 45,
+      "category": "kahvalti",
+      "image": "/images/menemen.jpg",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Sucuklu Yumurta",
+      "description": "Taze sucuk ve çırpılmış yumurta",
+      "price": 55,
+      "category": "kahvalti",
+      "image": "/images/sucuklu-yumurta.jpg",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "name": "Köfte",
+      "description": "Ev yapımı köfte, pilav, salata",
+      "price": 75,
+      "category": "ogle",
+      "image": "/images/kofte.jpg",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Tavuk Şiş",
+      "description": "Izgara tavuk şiş, bulgur pilavı, közlenmiş sebze",
+      "price": 85,
+      "category": "ogle",
+      "image": "/images/tavuk-sis.jpg",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Balık Izgara",
+      "description": "Taze deniz balığı, patates kızartması, yeşillik",
+      "price": 95,
+      "category": "ogle",
+      "image": "/images/balik-izgara.jpg",
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Künefe",
+      "description": "Geleneksel künefe, antep fıstığı, dondurma",
+      "price": 65,
+      "category": "tatli",
+      "image": "/images/kunefe.jpg",
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Baklava",
+      "description": "El açması baklava, antep fıstığı",
+      "price": 45,
+      "category": "tatli",
+      "image": "/images/baklava.jpg",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Sütlaç",
+      "description": "Ev yapımı sütlaç, tarçın",
+      "price": 35,
+      "category": "tatli",
+      "image": "/images/sutlac.jpg",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "Türk Kahvesi",
+      "description": "Geleneksel Türk kahvesi, lokum",
+      "price": 25,
+      "category": "icecek",
+      "image": "/images/turk-kahvesi.jpg",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Taze Sıkılmış Portakal Suyu",
+      "description": "Günlük taze portakal suyu",
+      "price": 50,
+      "category": "icecek",
+      "image": "/images/portakal-suyu.jpg",
+      "featured": true
+    }
+  ]
+}
